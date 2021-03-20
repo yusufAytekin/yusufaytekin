@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+}
+
+.btn-1 {
+    position: relative;
+    width: 100px;
+    height: 40px;
+    border: 2px solid rgb(78, 77, 77);
+    background-color: rgb(118, 119, 121);
+    transition-duration: 1.5s;
+    color: rgb(22, 22, 22);
+}
+
+.btn-1:hover {
+    background-color: rgb(22, 22, 22);
+    color: rgb(118, 119, 121);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 30px 50px 0 rgba(0,0,0,0.30);
+}
+
+#btn-1knm {
+    top: 300px;
+    right: -600px;
+}
+
+#hakkımızda {
+    top: 340px;
+    right: -450px;
+}
+.yazı {
+    position: relative;
+    top: 200px;
+    right: -490px;
+}
+
+a {
+    color: rgb(78, 77, 77);
+}
